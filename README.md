@@ -13,3 +13,7 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - Senior High School: Sapangbato National High School - Senior High School
 - High School: Sapangbato National High School
 - Elementary: Christian Friendship Learning Center
+ 
+## My Projects
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+- Midterm Lab Task 2: [Data Modeling using Power Query]()

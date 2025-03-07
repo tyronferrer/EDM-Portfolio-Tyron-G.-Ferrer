@@ -15,5 +15,5 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - Elementary: Christian Friendship Learning Center
  
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201/README.md)
 - Midterm Lab Task 2: [Data Modeling using Power Query]()

@@ -6,7 +6,7 @@ As a first-year student pursuing a Bachelor of Science in Information Systems, I
 
 Throughout my studies, I’m excited to delve deeper into key areas like systems analysis, databases, and programming to understand how different components of technology work together to drive progress. I enjoy collaborating with peers, exchanging ideas, and contributing to team projects where we can learn from each other and push the boundaries of what’s possible. Whether it’s through coding challenges, personal projects, or internships, I’m always looking for ways to apply and strengthen my skills while staying at the forefront of emerging technologies.
 
-Outside of the classroom, I’m constantly experimenting with new coding projects and diving into the latest tech trends to broaden my knowledge and stay ahead in the ever-evolving field of software development. My long-term goal is to build a solid foundation in Information Systems and leverage my skills to create innovative solutions that drive efficiency and success in the tech industry. I’m excited for the journey ahead and the opportunities to grow, collaborate, and make a meaningful impact on the world of technology.
+Outside of the classroom, I’m constantly experimenting with new coding projects and diving into the latest tech trends to broaden my knowldge and stay ahead in the ever-evolving field of software development. My long-term goal is to build a solid foundation in Information Systems and leverage my skills to create innovative solutions that drive efficiency and success in the tech industry. I’m excited for the journey ahead and the opportunities to grow, collaborate, and make a meaningful impact on the world of technology.
 
 ## Education
 - Currently taking 1st year college
@@ -15,5 +15,5 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - Elementary: Christian Friendship Learning Center
  
 ## My Projects
-- MIDTERM LAB TASK 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201%20)
-- MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202)
+- MIDTERM LAB TASK 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201%20/README.md)
+- MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202/README.md)

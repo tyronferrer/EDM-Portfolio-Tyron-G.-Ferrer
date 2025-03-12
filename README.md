@@ -16,4 +16,4 @@ Outside of the classroom, I’m constantly experimenting with new coding project
  
 ## My Projects
 - MIDTERM LAB TASK 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201%20)
-- MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202%20))
+- MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202%20)

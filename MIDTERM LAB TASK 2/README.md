@@ -25,7 +25,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
 ![sample Output](images/SALBYROLETYPE.png)
-![sample Output](images/SALBYROLESIZE.png)
+![sample Output](images/SALBYROLESIZEREF.png)
 ![sample Output](images/SALBYSIZEROLETYPE.png)
 ![sample Output](images/SALBYSTATEREF.png)
 ![sample Output](images/STATES.png)

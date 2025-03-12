@@ -31,4 +31,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![sample Output](images/STATES.png)
 
 ## Here's the screenshot of my Query Dependencies (See Screenshot)
-![sample Output](images/.png)
+![sample Output](images/QUERYDEPENDENCIES.png)

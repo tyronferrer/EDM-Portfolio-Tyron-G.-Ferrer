@@ -19,12 +19,12 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/START.PNG)
+![Sample Output](images/START.png)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/DURING.PNG)
+![Sample Output](images/DURING.png)
 
 Here's the Final Dashboard Output
-![Sample Output](images/DATASCIENCE.PNG)
-![Sample Output](images/MAP.PNG)
+![Sample Output](images/DATASCIENCE.png)
+![Sample Output](images/MAP.png)
 

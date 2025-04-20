@@ -14,7 +14,7 @@ CREATE TABLE employees_tbl (
     employee_name VARCHAR(255) NOT NULL,
     manager_id INT(5),
     FOREIGN KEY (manager_id) REFERENCES employees_tbl(employee_id)
-    );
+);
 ```
 ### EMPLOYEES TABLE STRUCTURE
 

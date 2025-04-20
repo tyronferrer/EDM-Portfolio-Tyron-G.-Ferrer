@@ -75,3 +75,7 @@ CREATE TABLE managers_tbl (
 
 ### MANAGERS Table Structure
 ![sample Output](images/TASK5.PNG)
+
+### EER Diagram
+This diagram shows a visual representation of the relationships among the tables in your model.
+![sample Output](images/ERD.PNG)

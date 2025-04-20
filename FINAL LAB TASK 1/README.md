@@ -17,7 +17,7 @@ CREATE TABLE employees (
 );
 ### EMPLOYEES Table Structure
 
-![sample Output](images/TASK1.png)
+![sample Output](images/TASK1.PNG)
 ---
 
 ### Departments Table
@@ -30,7 +30,7 @@ CREATE TABLE departments (
 );
 
 ### DEPARTMENTS Table Structure
-![sample Output](images/TASK2.png)
+![sample Output](images/TASK2.PNG)
 
 ---
 
@@ -46,7 +46,7 @@ CREATE TABLE employee_departments (
 );
 
 ### EMPLOYEES_DEPARTMENTS Table Structure
-![sample Output](images/TASK3.png)
+![sample Output](images/TASK3.PNG)
 
 ---
 
@@ -60,7 +60,7 @@ CREATE TABLE employee_projects (
 );
 
 ### EMPLOYEES_PROJECTS Table Structure
-![sample Output](images/TASK4.png)
+![sample Output](images/TASK4.PNG)
 
 ---
 
@@ -74,4 +74,4 @@ CREATE TABLE managers (
 );
 
 ### MANAGERS Table Structure
-![sample Output](images/TASK5.png)
+![sample Output](images/TASK5.PNG)

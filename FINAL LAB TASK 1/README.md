@@ -77,5 +77,5 @@ CREATE TABLE managers_tbl (
 ![sample Output](images/TASK5.PNG)
 
 ### EER Diagram
-This diagram shows a visual representation of the relationships among the tables in your model.
+This diagram shows a visual representation of the relationships among the tables.
 ![sample Output](images/ERD.PNG)

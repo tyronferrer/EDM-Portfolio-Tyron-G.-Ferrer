@@ -9,13 +9,14 @@ It includes employees, departments, managers, and their relationships with proje
 
 This table stores employee records and their managers.
 
+```sql
 CREATE TABLE employees_tbl (
 employee_id INT(5) UNIQUE AUTO_INCREMENT PRIMARY KEY,
 employee_name VARCHAR(255) NOT NULL,
 manager_id INT(5),
 FOREIGN KEY (manager_id) REFERENCES employees_tbl(employee_id)
 );
-    
+```
 ### EMPLOYEES TABLE STRUCTURE
 
 ![sample Output](images/TASK1.PNG)

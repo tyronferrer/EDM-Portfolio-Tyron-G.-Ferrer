@@ -18,4 +18,5 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - MIDTERM LAB TASK 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201%20/README.md)
 - MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202/README.md)
 - MIDTERM LAB TASK 3: [Creating Pivot Table and Dashboard](MIDTERM%20LAB%20TASK%203/README.md)
+- - FINAL LAB TASK 1: [Creating Pivot Table and Dashboard](FINAL%20LAB%20TASK%201/README.md)
 

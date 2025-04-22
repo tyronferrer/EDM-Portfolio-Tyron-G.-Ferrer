@@ -4,10 +4,11 @@ This task involves creating and managing a product database using MySQL. You are
 ## Here’s the Query Statements
 
 Fisrt, a command that create a database, so subsequent SQL operations will be performed within that specific database.
-sql
+```sql
 CREATE DATABASE product_db;
 
 USE product_db;
+```
 
 ### TASK 1
 ```sql
@@ -54,4 +55,4 @@ Here's the screenshot of ER Diagram or Relational Schema (See screenshots)
 
 ### ER Diagram or Relational Schema
 
-![Sample Output](images/ER_DIAGRAM.PNG)  
+![Sample Output](images/ERLAB3.PNG)  

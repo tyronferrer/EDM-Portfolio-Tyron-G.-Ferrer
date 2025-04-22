@@ -20,4 +20,5 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - MIDTERM LAB TASK 3: [Creating Pivot Table and Dashboard](MIDTERM%20LAB%20TASK%203/README.md)
 - FINAL LAB TASK 1: [Multi Level Company Database](FINAL%20LAB%20TASK%201/README.md)
 - FINAL LAB TASK 2: [Transform ER into Relational Tables](FINAL%20LAB%20TASK%202/README.md)
+- FINAL LAB TASK 3: [Table Manipulation](FINAL%20LAB%20TASK%203/README.md)
 

@@ -1,4 +1,4 @@
-# Multi Level Company Database 
+# Final Lab Task 1. Multi Level Company Database 
 This project contains a basic relational database design for managing employee-related information in a company.
 It includes employees, departments, managers, and their relationships with projects and departments.
 ---

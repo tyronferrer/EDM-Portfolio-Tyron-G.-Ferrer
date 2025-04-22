@@ -3,7 +3,7 @@ For this task, we are given an ER diagram representing student assignment submis
 
 ## Here’s the Query Statements
 
-Fisrt, a command that create a database as the active database, so subsequent SQL operations will be performed within that specific database.
+Fisrt, a command that create a database, so subsequent SQL operations will be performed within that specific database.
 ```sql
 CREATE DATABASE student_assignments;
 SHOW DATABASES;

@@ -1,4 +1,4 @@
-# Finals Lab Task 3: Table Manipulation
+# Final Lab Task 3: Table Manipulation
 This task involves creating and managing a product database using MySQL. You are required to follow a step-by-step approach to perform operations such as table creation, data insertion, and schema modification.
 
 ## Here’s the Query Statements

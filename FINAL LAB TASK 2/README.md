@@ -1,4 +1,4 @@
-# Finals Lab Task 2. Transforming ER Model to Relational Tables
+# Finals Lab Task 2: Transforming ER Model to Relational Tables
 For this task, we are given an ER diagram representing student assignment submissions, which we need to convert into MySQL tables.
 
 ## Here’s the Query Statements

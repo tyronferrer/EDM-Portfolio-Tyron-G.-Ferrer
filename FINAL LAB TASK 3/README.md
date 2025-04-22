@@ -56,9 +56,3 @@ Here's the screenshot of Table Structure (See screenshots)
 ### Product Table
   
 ![Sample Output](images/PRODUCTS.PNG)
-
-Here's the screenshot of ER Diagram or Relational Schema (See screenshots)
-
-### ER Diagram or Relational Schema
-
-![Sample Output](images/ERLAB3.PNG)  

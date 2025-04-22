@@ -47,12 +47,8 @@ DESCRIBE products_tbl;
 ```
 Here's the screenshot of whole Query Statements (See screenshots)
 
- ### The Query Statements
+ ### Product Table
+
+ Here's the screenshot of Table Structure (See screenshots)
  
 ![Sample Output](images/LAB3.PNG)
-
-Here's the screenshot of Table Structure (See screenshots)
-
-### Product Table
-  
-![Sample Output](images/PRODUCTS.PNG)

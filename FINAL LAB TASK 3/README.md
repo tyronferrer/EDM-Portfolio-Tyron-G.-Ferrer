@@ -54,4 +54,4 @@ DESCRIBE products_tbl;
 ###  Product's Value Table
  Here's the screenshot of Query Statements and Table Structure (See screenshots)
  
-![Sample Output](images/VALUES.PNG)
+![Sample Output](images/VALUES.png)

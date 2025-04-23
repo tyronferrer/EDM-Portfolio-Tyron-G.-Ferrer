@@ -55,3 +55,7 @@ DESCRIBE products_tbl;
  Here's the screenshot of Query Statements and Table Structure (See screenshots)
  
 ![Sample Output](images/VALUES.png)
+
+###  ER Diagram or Relational Schema 
+
+![Sample Output](images/ER3.png)

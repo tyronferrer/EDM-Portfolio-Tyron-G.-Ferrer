@@ -49,7 +49,7 @@ DESCRIBE products_tbl;
  ### Product Table
  Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
  
-![Sample Output](images/LAB3.PNG)
+![Sample Output](images/LAB3.png)
 
 ###  Product's Value Table
  Here's the screenshot of Query Statements and Table Structure (See screenshots)
